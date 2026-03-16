@@ -34,3 +34,6 @@ In conclusion, this project demonstrates the importance of data preprocessing an
 
 output of the task:
 
+<img width="1994" height="1020" alt="Image" src="https://github.com/user-attachments/assets/607ede65-62b4-4cbb-8f6e-930699b4a296" />
+
+
